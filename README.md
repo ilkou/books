@@ -4,4 +4,4 @@
 * [Original link](https://books.goalkicker.com/)
 
 ## Pics 
-![alt text](https://github.com/ilkou/rt/blob/master/ex.png "facebook")
+![alt text](https://github.com/ilkou/books/blob/master/ex.png "facebook")
